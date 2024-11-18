@@ -74,9 +74,9 @@ Before you begin, make sure you have the following installed:
 
 ## Live Demonstration
 
-- Frontend: View on Netlify
-- Backend API: View on Render
-- API Documentation: View Postman Docs
+- **Frontend**: [View on Netlify](https://comfy-hotteok-f84fa8.netlify.app/)
+- **Backend API**: [View on Render](https://books-listing.onrender.com)
+- **API Documentation**: [View Postman Docs](https://documenter.getpostman.com/view/27911731/2sAYBREtEG)
 
 ## API Endpoints
 
@@ -87,9 +87,11 @@ Before you begin, make sure you have the following installed:
 
 ## Snapshots
 
-📸 Frontend
+## 📸 Frontend
+![Frontend](https://github.com/user-attachments/assets/9b531527-16be-4e84-9b15-e32b2d8c7df5)
 
-📸 Backend
+## 📸 Backend
+![Backend](https://github.com/user-attachments/assets/6976ac78-cb30-49a2-8158-b6ab511dc8c9)
 
 ## Contribution
 
@@ -98,9 +100,5 @@ If you'd like to contribute to this project:
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
 3. Submit a pull request with a detailed explanation of your changes.
-
-## License
-
-This project is open-source and available under the MIT License.
 
 Happy coding! 😊
